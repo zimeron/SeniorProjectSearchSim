@@ -1,0 +1,395 @@
+file 16867 1523238407                                           
+version 2
+run SearchRandomGraph-0-20180408-21:43:57-14228
+attr configname SearchRandomGraph
+attr datetime 20180408-21:43:57
+attr experiment SearchRandomGraph
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network networks.SearchRandomGraph
+attr processid 14228
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param **.destAddresses "\"0\""
+param **.appType "\"SearcherApp\""
+param **.hasFile false
+param **.hasConnections true
+param **.appType "\"App\""
+param **.app.packetLength "4096 bytes"
+
+vector 0 SearchRandomGraph.node[34].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 1 SearchRandomGraph.node[7].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 2 SearchRandomGraph.node[44].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 3 SearchRandomGraph.node[1].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 4 SearchRandomGraph.node[0].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 5 SearchRandomGraph.node[72].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 6 SearchRandomGraph.node[19].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 7 SearchRandomGraph.node[26].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 8 SearchRandomGraph.node[42].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 9 SearchRandomGraph.node[2].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 10 SearchRandomGraph.node[85].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 11 SearchRandomGraph.node[98].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 12 SearchRandomGraph.node[60].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 13 SearchRandomGraph.node[62].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 14 SearchRandomGraph.node[11].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 15 SearchRandomGraph.node[49].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 16 SearchRandomGraph.node[63].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 17 SearchRandomGraph.node[47].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 18 SearchRandomGraph.node[9].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 19 SearchRandomGraph.node[52].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 20 SearchRandomGraph.node[40].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 21 SearchRandomGraph.node[54].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 22 SearchRandomGraph.node[29].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 23 SearchRandomGraph.node[65].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 24 SearchRandomGraph.node[33].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 25 SearchRandomGraph.node[15].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 26 SearchRandomGraph.node[69].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 27 SearchRandomGraph.node[55].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 28 SearchRandomGraph.node[73].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 29 SearchRandomGraph.node[30].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 30 SearchRandomGraph.node[41].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 31 SearchRandomGraph.node[16].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 32 SearchRandomGraph.node[8].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 33 SearchRandomGraph.node[64].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 34 SearchRandomGraph.node[66].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 35 SearchRandomGraph.node[91].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 36 SearchRandomGraph.node[81].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 37 SearchRandomGraph.node[89].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 38 SearchRandomGraph.node[58].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 39 SearchRandomGraph.node[24].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 40 SearchRandomGraph.node[23].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 41 SearchRandomGraph.node[77].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 42 SearchRandomGraph.node[87].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 43 SearchRandomGraph.node[12].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 44 SearchRandomGraph.node[68].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 45 SearchRandomGraph.node[71].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 46 SearchRandomGraph.node[76].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 47 SearchRandomGraph.node[88].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 48 SearchRandomGraph.node[59].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 49 SearchRandomGraph.node[93].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 50 SearchRandomGraph.node[48].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 51 SearchRandomGraph.node[86].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 52 SearchRandomGraph.node[3].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 53 SearchRandomGraph.node[18].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 54 SearchRandomGraph.node[25].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 55 SearchRandomGraph.node[99].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 56 SearchRandomGraph.node[35].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 57 SearchRandomGraph.node[39].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 58 SearchRandomGraph.node[13].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 59 SearchRandomGraph.node[43].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 60 SearchRandomGraph.node[80].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 61 SearchRandomGraph.node[10].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 62 SearchRandomGraph.node[20].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 63 SearchRandomGraph.node[46].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 64 SearchRandomGraph.node[6].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 65 SearchRandomGraph.node[57].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 66 SearchRandomGraph.node[14].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 67 SearchRandomGraph.node[22].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 68 SearchRandomGraph.node[38].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 69 SearchRandomGraph.node[37].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 70 SearchRandomGraph.node[78].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 71 SearchRandomGraph.node[50].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 72 SearchRandomGraph.node[90].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+vector 73 SearchRandomGraph.node[79].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+0	12950 33 11 11 0.017453116091 0.017453116091 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+1	12983 33 21 21 0.017718652091 0.017718652091 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+2	13016 67 32 833 0.030051021814 1.321447159848 2 0.000265536 0.000531072 0.000796608 3.5254683648e-007
+3	13083 66 46 291 0.030449325814 0.268886698022 2 0.000265536 0.00066384 0.000929376 5.11192912896e-007
+4	13149 33 56 56 0.030714861814 0.030714861814 1 0.000929376 0.000929376 0.000929376 8.63739749376e-007
+5	13182 33 71 71 0.044633066822 0.044633066822 1 0.000398304 0.000398304 0.000398304 1.58646076416e-007
+6	13215 100 85 535 0.045031370822 0.638288501049 3 0.000265536 0.000796608 0.001725984 1.14577721856e-006
+7	13315 132 96 812 0.104344602119 1.289085398003 4 0.000132768 0.00066384 0.001593216 8.10857723904e-007
+8	13447 66 106 314 0.104610138119 0.2986160196 2 0.000265536 0.000531072 0.000796608 3.5254683648e-007
+9	13513 34 122 122 0.105008442119 0.105008442119 1 0.000929376 0.000929376 0.000929376 8.63739749376e-007
+10	13547 104 133 429 0.122588942113 0.551397432996 3 0.000265536 0.000531072 0.001062144 4.23056203776e-007
+11	13651 70 143 938 0.122854478113 1.579700007986 2 0.000265536 0.000531072 0.000796608 3.5254683648e-007
+12	13721 71 150 1069 0.138556323737 2.322539910642 2 0.000132768 0.000531072 0.00066384 2.99664811008e-007
+13	13792 104 160 650 0.138821859737 0.81908209194 3 0.000265536 0.000531072 0.001194912 5.11192912896e-007
+14	13896 105 174 823 0.139220163737 1.321181623848 3 0.000265536 0.000796608 0.001858752 1.339677978624e-006
+15	14001 106 180 1027 0.139352931737 2.271718023889 3 0.000531072 0.000929376 0.00199152 1.427814687744e-006
+16	14107 35 190 190 0.139618467737 0.139618467737 1 0.001194912 0.001194912 0.001194912 1.427814687744e-006
+17	14142 70 200 346 0.139884003737 0.325916423844 2 0.000265536 0.001460448 0.001725984 2.203417728e-006
+18	14212 68 211 576 0.1678298485 0.716604905464 2 0.000265536 0.000796608 0.001062144 7.0509367296e-007
+19	14280 33 235 235 0.1684936885 0.1684936885 1 0.000929376 0.000929376 0.000929376 8.63739749376e-007
+20	14313 33 245 245 0.1687592245 0.1687592245 1 0.001194912 0.001194912 0.001194912 1.427814687744e-006
+21	14346 105 256 1132 0.221681515979 3.17304826044 3 0.000265536 0.000796608 0.00132768 7.75603040256e-007
+22	14451 34 270 270 0.222079819979 0.222079819979 1 0.00066384 0.00066384 0.00066384 4.406835456e-007
+23	14485 35 280 280 0.222345355979 0.222345355979 1 0.000929376 0.000929376 0.000929376 8.63739749376e-007
+24	14520 35 301 301 0.269152234022 0.269152234022 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+25	14555 33 308 308 0.2984832516 0.2984832516 1 0.000132768 0.000132768 0.000132768 1.7627341824e-008
+26	14588 35 325 325 0.316601750611 0.316601750611 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+27	14623 35 356 356 0.326181959844 0.326181959844 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+28	14658 105 371 730 0.374540649738 1.107268952203 3 0.000265536 0.000398304 0.001062144 3.87801520128e-007
+29	14763 69 381 963 0.374806185738 1.613646002379 2 0.000398304 0.00066384 0.001062144 5.99329622016e-007
+30	14832 69 387 626 0.374938953738 0.80667539071 2 0.000265536 0.000796608 0.001062144 7.0509367296e-007
+31	14901 68 408 755 0.43956736631 1.14997334266 2 0.000265536 0.000531072 0.000796608 3.5254683648e-007
+32	14969 139 419 660 0.551131896996 0.81934762794 4 0.000265536 0.000531072 0.001460448 5.81702280192e-007
+33	15108 35 470 470 0.562434061594 0.562434061594 1 0.000796608 0.000796608 0.000796608 6.34584305664e-007
+34	15143 71 480 1156 0.562699597594 5.021742049902 2 0.000265536 0.001062144 0.00132768 1.198659244032e-006
+35	15214 35 491 491 0.625925638671 0.625925638671 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+36	15249 35 501 501 0.626191174671 0.626191174671 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+37	15284 70 512 612 0.635242679312 0.806470406584 2 0.000265536 0.000265536 0.000531072 1.41018734592e-007
+38	15354 35 522 522 0.635508215312 0.635508215312 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+39	15389 71 545 1059 0.638554037049 2.322274374642 2 0.000265536 0.000531072 0.000796608 3.5254683648e-007
+40	15460 70 566 992 0.716339369464 2.030731011709 2 0.000398304 0.000531072 0.000929376 4.406835456e-007
+41	15530 35 587 587 0.730777757515 0.730777757515 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+42	15565 70 597 896 0.731043293515 1.414536926606 2 0.000531072 0.000531072 0.001062144 5.64074938368e-007
+43	15635 35 632 632 0.806735942584 0.806735942584 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+44	15670 34 639 639 0.80694092671 0.80694092671 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+45	15704 70 671 917 0.870139908967 1.443603752135 2 0.000265536 0.000265536 0.000531072 1.41018734592e-007
+46	15774 35 681 681 0.870405444967 0.870405444967 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+47	15809 35 688 688 0.926541847646 0.926541847646 1 0.000132768 0.000132768 0.000132768 1.7627341824e-008
+48	15844 70 705 844 0.955877844763 1.333256859617 2 0.000265536 0.000265536 0.000531072 1.41018734592e-007
+49	15914 35 715 715 0.956143380763 0.956143380763 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+50	15949 71 744 1080 1.107667256203 2.784592541233 2 0.000265536 0.000796608 0.001062144 7.0509367296e-007
+51	16020 34 765 765 1.15023887866 1.15023887866 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+52	16054 70 772 785 1.186301370171 1.211933283362 2 0.000132768 0.000132768 0.000265536 3.5254683648e-008
+53	16124 35 778 778 1.186434138171 1.186434138171 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+54	16159 35 791 791 1.212066051362 1.212066051362 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+55	16194 35 802 802 1.288819862003 1.288819862003 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+56	16229 35 854 854 1.333522395617 1.333522395617 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+57	16264 34 865 865 1.35509727828 1.35509727828 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+58	16298 34 875 875 1.35536281428 1.35536281428 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+59	16332 35 906 906 1.414802462606 1.414802462606 1 0.000796608 0.000796608 0.000796608 6.34584305664e-007
+60	16367 35 927 927 1.443869288135 1.443869288135 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+61	16402 35 948 948 1.579965543986 1.579965543986 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+62	16437 35 977 977 1.614044306379 1.614044306379 1 0.000796608 0.000796608 0.000796608 6.34584305664e-007
+63	16472 36 1006 1006 2.031129315709 2.031129315709 1 0.000796608 0.000796608 0.000796608 6.34584305664e-007
+64	16508 36 1017 1017 2.271452487889 2.271452487889 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+65	16544 36 1038 1038 2.274709031918 2.274709031918 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+66	16580 36 1048 1048 2.274974567918 2.274974567918 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+67	16616 36 1090 1090 2.784858077233 2.784858077233 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+68	16652 35 1097 1097 3.10403020285 3.10403020285 1 0.000132768 0.000132768 0.000132768 1.7627341824e-008
+69	16687 35 1103 1103 3.10416297085 3.10416297085 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+70	16722 35 1118 1118 3.17264995644 3.17264995644 1 0.000398304 0.000398304 0.000398304 1.58646076416e-007
+71	16757 36 1139 1139 3.609595532756 3.609595532756 1 0.000132768 0.000132768 0.000132768 1.7627341824e-008
+72	16793 36 1145 1145 3.609728300756 3.609728300756 1 0.000265536 0.000265536 0.000265536 7.0509367296e-008
+73	16829 36 1166 1166 5.022007585902 5.022007585902 1 0.000531072 0.000531072 0.000531072 2.82037469184e-007
+

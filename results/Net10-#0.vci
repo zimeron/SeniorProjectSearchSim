@@ -1,0 +1,37 @@
+file 357900 1519611138                                          
+version 2
+run Net10-0-20180225-20:11:08-4196
+attr configname Net10
+attr datetime 20180225-20:11:08
+attr experiment Net10
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network networks.Net10
+attr processid 4196
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param **.app.packetLength "uniform(128 byte, 1024 byte)"
+param **.destAddresses "\"1 6 8\""
+param **.appType "\"App\""
+param **.app.packetLength "4096 bytes"
+
+vector 0 Net10.rte[8].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+0	988 120313 15 88760 0.171812545199 914.319496670875 3057 0 0.026581691534 26.619925613161 0.34634522154796
+vector 1 Net10.rte[6].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+1	121301 117471 22 88723 0.624254965941 914.042367694384 2996 0 0.033319286808 21.516131510175 0.24367488082201
+vector 2 Net10.rte[1].app endToEndDelay:vector ETV
+attr interpolationmode none
+attr title "end-to-end delay of arrived packets, vector"
+attr unit s
+2	238772 119128 51 88738 0.96024650237 914.136296182318 3031 0 0.035353369198 32.181704718711 0.52820595626715
